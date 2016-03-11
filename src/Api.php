@@ -3,7 +3,7 @@
  * @author Alexey Samoylov <alexey.samoylov@gmail.com>
  */
 
-namespace yiidreamteam\perfectmoney;
+namespace legront\perfectmoney;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\Url;
