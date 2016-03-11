@@ -3,7 +3,7 @@
  * @author Alexey Samoylov <alexey.samoylov@gmail.com>
  *
  * @var \yii\web\View $this
- * @var \yiidreamteam\perfectmoney\Api $api
+ * @var \legront\perfectmoney\Api $api
  * @var $invoiceId
  * @var $amount
  * @var $description

@@ -3,7 +3,7 @@
  * @author Alexey Samoylov <alexey.samoylov@gmail.com>
  */
 
-namespace yiidreamteam\perfectmoney\events;
+namespace legront\perfectmoney\events;
 
 use yii\base\Event;
 use yii\db\ActiveRecord;

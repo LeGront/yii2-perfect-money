@@ -1,5 +1,5 @@
 {
-    "name": "yii-dream-team/yii2-perfect-money",
+    "name": "legront/yii2-perfect-money",
     "description": "PerfectMoney component for Yii2",
     "type": "yii2-extension",
     "license": "MIT",
@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/yii-dream-team/yii2-perfect-money/issues",
-        "source": "https://github.com/yii-dream-team/yii2-perfect-money"
+        "issues": "https://github.com/legront/yii2-perfect-money/issues",
+        "source": "https://github.com/legront/yii2-perfect-money"
     },
     "minimum-stability": "dev",
     "require": {
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yiidreamteam\\perfectmoney\\": "./src"
+            "legront\\perfectmoney\\": "./src"
         }
     }
 }

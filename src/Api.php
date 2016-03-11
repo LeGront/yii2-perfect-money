@@ -10,7 +10,7 @@ use yii\helpers\Url;
 use yii\helpers\VarDumper;
 use yii\web\ForbiddenHttpException;
 use yii\web\HttpException;
-use yiidreamteam\perfectmoney\events\GatewayEvent;
+use legront\perfectmoney\events\GatewayEvent;
 
 class Api extends \yii\base\Component
 {

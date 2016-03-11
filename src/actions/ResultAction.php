@@ -3,11 +3,11 @@
  * @author Alexey Samoylov <alexey.samoylov@gmail.com>
  */
 
-namespace yiidreamteam\perfectmoney\actions;
+namespace legront\perfectmoney\actions;
 
 use yii\base\Action;
 use yii\base\InvalidConfigException;
-use yiidreamteam\perfectmoney\Api;
+use legront\perfectmoney\Api;
 
 class ResultAction extends Action
 {
